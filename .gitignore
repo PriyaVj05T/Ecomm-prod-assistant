@@ -18,7 +18,6 @@ venv/
 .idea/
 
 # Environment files
-
 .env
 *.env
 
