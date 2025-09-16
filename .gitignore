@@ -8,6 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+.prod-env/
+.prod-env
 # Virtual environment
 env/
 venv/
