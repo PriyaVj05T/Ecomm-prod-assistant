@@ -8,7 +8,6 @@ import grpc.experimental.aio as grpc_aio
 grpc_aio.init_grpc_aio()
 model_loader=ModelLoader()
 
-
 def evaluate_context_precision(query, response, retrieved_context):
     try:
         sample = SingleTurnSample(
