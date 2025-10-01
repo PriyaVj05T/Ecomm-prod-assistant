@@ -128,7 +128,7 @@ class AgenticRAG:
                                  config={"configurable": {"thread_id": thread_id}})
         return result["messages"][-1].content
     
-        # function call with be asscoiate
+        # function call with be associate
         # you will get some score
         # put condition behalf on that score
         # if relevany>0.75
